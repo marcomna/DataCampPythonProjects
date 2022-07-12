@@ -1,2 +1,2 @@
 # DataCampPythonProjects
-DataCamp projects made for the Data Scientis Career Track
+DataCamp projects made for the Data Scientist Career Track
